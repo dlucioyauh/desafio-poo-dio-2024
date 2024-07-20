@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e2c1191d-3bc2-4ed1-8592-acde79ab88e4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../IPhoneComUML/IPhoneComUML.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../banco-digital-yaudin/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../collections-java-api/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../collections-java-api/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../collections-java-api/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../collections-java-api/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../collections-java-api/collections-java-api.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../collections-java-api/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/dio/desafio/dominio/Bootcamp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/dio/desafio/dominio/Conteudo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/dio/desafio/dominio/Curso.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/dio/desafio/dominio/Dev.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/dio/desafio/dominio/Mentoria.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ganhando_produtividade_com_Stream_API_Java/src/functional_interface/examples/BinaryOperatorExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ganhando_produtividade_com_Stream_API_Java/src/functional_interface/examples/ConsumerExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ganhando_produtividade_com_Stream_API_Java/src/functional_interface/examples/FunctionExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ganhando_produtividade_com_Stream_API_Java/src/functional_interface/examples/PredicateExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ganhando_produtividade_com_Stream_API_Java/src/functional_interface/examples/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ganhando_produtividade_com_Stream_API_Java/src/functional_interface/examples/SupplierExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ IPhoneComUML/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ IPhoneComUML/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ IPhoneComUML/.idea/libraries/lib.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ IPhoneComUML/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ IPhoneComUML/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ IPhoneComUML/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ IPhoneComUML/IPhoneComUML.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ IPhoneComUML/diagrama.puml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ IPhoneComUML/iphone/iphone.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ IPhoneComUML/iphone/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ IPhoneComUML/resources/com/dlucioYauh/iphone/iphone.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ IPhoneComUML/resources/com/dlucioYauh/iphone/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ IPhoneComUML/src/com/dlucioYauh/iphone/AparelhoTelefonico.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ IPhoneComUML/src/com/dlucioYauh/iphone/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ IPhoneComUML/src/com/dlucioYauh/iphone/NavegadorInternet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ IPhoneComUML/src/com/dlucioYauh/iphone/ReprodutorMusical.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ IPhoneComUML/src/com/dlucioYauh/iphone/controller/iPhoneController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ IPhoneComUML/src/com/dlucioYauh/iphone/iPhone.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DesafioControleFluxo/src/Contador.java" beforeDir="false" afterPath="$PROJECT_DIR$/../DesafioControleFluxo/src/Contador.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DesafioControleFluxo/src/ParametrosInvalidosException.java" beforeDir="false" afterPath="$PROJECT_DIR$/../DesafioControleFluxo/src/ParametrosInvalidosException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IPhoneComUML/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../IPhoneComUML/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OperacaoBancariaComSwitch/src/SimulacaoBancaria.java" beforeDir="false" afterPath="$PROJECT_DIR$/../OperacaoBancariaComSwitch/src/SimulacaoBancaria.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../desafio-conta-bancaria" beforeDir="false" afterPath="$PROJECT_DIR$/../desafio-conta-bancaria" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2jWxykHRheR92JvmPMh0nn0hUf2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e2c1191d-3bc2-4ed1-8592-acde79ab88e4" name="Default Changelist" comment="" />
+      <created>1721516897610</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1721516897610</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
