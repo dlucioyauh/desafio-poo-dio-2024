@@ -149,4 +149,4 @@ Se possível:<br>
 
 ------------
 
-Disponibilizado com ♥ por [dlucioyauh](https://www.linkedin.com/in/dlucioyauh/ "dlucioyauh").
+
