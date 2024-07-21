@@ -19,13 +19,6 @@
       <change afterPath="$PROJECT_DIR$/../collections-java-api/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../collections-java-api/collections-java-api.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../collections-java-api/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/dio/desafio/dominio/Bootcamp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/dio/desafio/dominio/Conteudo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/dio/desafio/dominio/Curso.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/dio/desafio/dominio/Dev.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/dio/desafio/dominio/Mentoria.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../ganhando_produtividade_com_Stream_API_Java/src/functional_interface/examples/BinaryOperatorExample.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../ganhando_produtividade_com_Stream_API_Java/src/functional_interface/examples/ConsumerExample.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../ganhando_produtividade_com_Stream_API_Java/src/functional_interface/examples/FunctionExample.java" afterDir="false" />
@@ -55,6 +48,9 @@
       <change beforePath="$PROJECT_DIR$/../IPhoneComUML/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../IPhoneComUML/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../OperacaoBancariaComSwitch/src/SimulacaoBancaria.java" beforeDir="false" afterPath="$PROJECT_DIR$/../OperacaoBancariaComSwitch/src/SimulacaoBancaria.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../desafio-conta-bancaria" beforeDir="false" afterPath="$PROJECT_DIR$/../desafio-conta-bancaria" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,7 +65,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="2jWxykHRheR92JvmPMh0nn0hUf2" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -83,6 +79,20 @@
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="desafio-poo-dio-2024" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
